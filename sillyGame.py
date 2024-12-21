@@ -13,6 +13,8 @@ strings = [
     "Nu är det jul!",
     "Dansa upp-och-ner!",
     "Låt som en dinosaurie!",
+    "Simma som en fisk!",
+    "Hej Hallsberg!",
 ]
 
 
